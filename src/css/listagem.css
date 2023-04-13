@@ -23,3 +23,11 @@
     width: 25%;
     border-radius: 50%;
 }
+
+.listagem .pokemon:hover {
+
+    transform: scale(1.85);
+}
+
+
+
