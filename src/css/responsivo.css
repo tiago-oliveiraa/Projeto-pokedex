@@ -1,0 +1,13 @@
+@media (max-width: 750px) {
+    .pokedex {
+      background-color: violet;
+    }
+  }
+
+  .pokedex{
+    flex-direction: column;
+    padding: 30px 0
+}
+
+
+

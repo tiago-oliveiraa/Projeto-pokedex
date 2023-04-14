@@ -29,5 +29,10 @@
     transform: scale(1.85);
 }
 
+.listagem .pokemon.ativo {
+    background-color: #fa6668;
+
+}
+
 
 
